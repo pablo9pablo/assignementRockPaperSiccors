@@ -11,4 +11,4 @@ function getComputerchoice(){
   }
   return resultado;
 }
-console.log(getComputerChoice());
+console.log(getComputerchoice());
